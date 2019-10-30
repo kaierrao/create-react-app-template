@@ -104,6 +104,7 @@ module.exports = {
         hot: true
     },
     resolve: {
+//         在导入语句没带文件后缀时，webpack会自动带上后缀去尝试访问文件是否存在,例如：查找./data ,先查找data.js，如果找不到，再找data.json....
         extensions: [".js", ".json", ".jsx"]
     },
     optimization: {
