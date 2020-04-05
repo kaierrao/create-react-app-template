@@ -998,9 +998,9 @@ acorn-jsx@^5.0.0:
   integrity sha1-MqBk/ZJUKSFqCbFBECv90YX65A4=
 
 acorn@^6.0.5, acorn@^6.0.7:
-  version "6.1.1"
-  resolved "https://registry.npm.taobao.org/acorn/download/acorn-6.1.1.tgz#7d25ae05bb8ad1f9b699108e1094ecd7884adc1f"
-  integrity sha1-fSWuBbuK0fm2mRCOEJTs14hK3B8=
+  version "6.4.1"
+  resolved "https://registry.yarnpkg.com/acorn/-/acorn-6.4.1.tgz#531e58ba3f51b9dacb9a6646ca4debf5b14ca474"
+  integrity sha512-ZVA9k326Nwrj3Cj9jlh3wGFutC2ZornPNARZwsNYqQYgN0EsV2d53w5RN/co65Ohn4sUAUtb1rSUAOD6XN9idA==
 
 add-dom-event-listener@^1.1.0:
   version "1.1.0"
@@ -3812,6 +3812,11 @@ fsevents@^1.2.7:
   dependencies:
     nan "^2.12.1"
     node-pre-gyp "^0.12.0"
+
+fullpage.js@^3.0.7:
+  version "3.0.8"
+  resolved "https://registry.yarnpkg.com/fullpage.js/-/fullpage.js-3.0.8.tgz#4d89a87d36c30c0866c3dfec5e6cb363902f97b2"
+  integrity sha512-r4B/MNuxylgzSlY+w4klD0lYYlmzEy7doDvurupAuO1ObKBgu9EB5GPuoeJTP7t/njFlzAM/Wu/I+FL3WvudCw==
 
 function-bind@^1.1.1:
   version "1.1.1"
