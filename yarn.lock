@@ -3813,6 +3813,11 @@ fsevents@^1.2.7:
     nan "^2.12.1"
     node-pre-gyp "^0.12.0"
 
+fullpage.js@^4.0.5:
+  version "4.0.5"
+  resolved "https://registry.yarnpkg.com/fullpage.js/-/fullpage.js-4.0.5.tgz#033880e792610a28fe4f7c9ee49eff33a7b38e14"
+  integrity sha512-4OWRP08ogL35LwnNyDa8LNqRD0003HdolcVflfUyhMwAHVrpBNY9u1WYdAfnFEX7bd4vsermL7z22nmNqPWZvw==
+
 function-bind@^1.1.1:
   version "1.1.1"
   resolved "https://registry.npm.taobao.org/function-bind/download/function-bind-1.1.1.tgz#a56899d3ea3c9bab874bb9773b7c5ede92f4895d"
